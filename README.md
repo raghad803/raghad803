@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Apps and website developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
-Email: raghadshaheen2@gmail.com
+Email: raghadshaheen26@gmail.com
 
 <!---
 raghad803/raghad803 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
